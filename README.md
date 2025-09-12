@@ -48,12 +48,24 @@ The App is not directed at children under 13. We do not knowingly collect inform
 
 ---
 
-## 7. Changes to This Policy
+## 7. Delete Your Account
+You may request deletion of your account and associated data at any time.  
+To do so, please contact us by email with the subject line **“Account Deletion Request”** at:
+
+- **Email:** sagar.bdr0000@gmail.com or sagar_pa2508mch184@iitp.ac.in  
+
+When we receive your request, we will:
+- Permanently delete your account and all associated simulated portfolio data within **7 business days**.  
+- Retain no personal data after deletion is complete.
+
+---
+
+## 8. Changes to This Policy
 We may update this Privacy Policy from time to time. The latest version will always be available on this page.
 
 ---
 
-## 8. Contact Us
+## 9. Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 
 **Email:** sagar.bdr0000@gmail.com or sagar_pa2508mch184@iitp.ac.in  
