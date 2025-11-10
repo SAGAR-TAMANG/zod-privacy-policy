@@ -1,72 +1,41 @@
-# Privacy Policy for Zod
 
-_Last updated: September 13, 2025_
+### **Privacy Policy for Zod (Updated for Google Play Compliance)**
 
-Zod ("the App") is a stock market information and portfolio simulator for the **Nepal Stock Exchange (NEPSE)**. This Privacy Policy explains how we handle your information.
+**Last updated: 10th of Nov 2025**
 
----
+Zod (“the App”) is an **educational stock market simulation app**. It provides **paper trading and simulated portfolio features only**. The App does **not** offer real trading, financial services, or investment advice. It is **not affiliated with or endorsed by any stock exchange**, organization, or financial institution.
 
-## 1. Information We Collect
-- **Google Account (Email address)**: If you sign in with Google, we collect your email address solely to identify your account.
-- **Portfolio Data**: Any transactions you create inside the App are stored as **simulated (fake) data** for your personal use. No real money is involved.
+**1. Information We Collect**
 
-We do **not** collect sensitive information such as location, contacts, health data, or financial credentials.
+* Email address (for account login using Google Sign-In)
+* Simulated portfolio entries created by the user
 
----
+**2. How We Use Information**
 
-## 2. How We Use Information
-- To let you log in securely using your Google account.
-- To store your simulated transactions and watchlist so you can access them later.
-- To improve the App experience (basic analytics or debugging).
+* To authenticate your account
+* To store your personal simulation data
+* To maintain your watchlist and app preferences
 
----
+**3. What We Do Not Collect**
 
-## 3. Information We Do Not Collect
-- We do not collect or track your precise location.
-- We do not collect your personal communications, photos, contacts, or health data.
-- We do not request or process any real financial information.
+* No real financial information
+* No precise location
+* No contacts, photos, messages
 
----
+**4. Data Sharing**
+We do not sell or share your data.
+Authentication is handled by Google and Supabase according to their policies.
 
-## 4. Data Sharing
-- We do **not** sell, rent, or trade your personal data.
-- We do not share your data with advertisers or third parties.
-- Authentication is powered by **Google** and **Supabase**, which may process data according to their own privacy policies:
-  - [Google Privacy Policy](https://policies.google.com/privacy)
-  - [Supabase Privacy Policy](https://supabase.com/privacy)
+**5. Data Security**
+All communication is encrypted in transit.
 
----
+**6. Children’s Privacy**
+The app is for users aged 13+.
 
-## 5. Data Security
-- All communication between the App and servers is encrypted in transit.
-- We take reasonable steps to protect your account data.
+**7. Delete Your Account**
+To delete your account and all associated data, email:
+[sagar.bdr0000@gmail.com](mailto:sagar.bdr0000@gmail.com)
 
----
-
-## 6. Children’s Privacy
-The App is not directed at children under 13. We do not knowingly collect information from children.
-
----
-
-## 7. Delete Your Account
-You may request deletion of your account and associated data at any time.  
-To do so, please contact us by email with the subject line **“Account Deletion Request”** at:
-
-- **Email:** sagar.bdr0000@gmail.com or sagar_pa2508mch184@iitp.ac.in  
-
-When we receive your request, we will:
-- Permanently delete your account and all associated simulated portfolio data within **7 business days**.  
-- Retain no personal data after deletion is complete.
-
----
-
-## 8. Changes to This Policy
-We may update this Privacy Policy from time to time. The latest version will always be available on this page.
-
----
-
-## 9. Contact Us
-If you have any questions about this Privacy Policy, please contact us:
-
-**Email:** sagar.bdr0000@gmail.com or sagar_pa2508mch184@iitp.ac.in  
-**App Name:** Zod - NEPSE Nepal Stock App
+**8. Contact**
+For privacy questions, contact:
+[sagar.bdr0000@gmail.com](mailto:sagar.bdr0000@gmail.com)
